@@ -1,4 +1,6 @@
 # YoutubeAdsKiller 
 # TradingViewAdsKiller
 
-Techniques to remove ads on popular websites such as Youtube or TradingView
+If you need to remove ads completely on Youtube or TradingView (or any other website) :
+
+Open an issue on the "Issues" tab, and I'll reply to you.
